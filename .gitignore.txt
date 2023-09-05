@@ -1,4 +1,4 @@
-# 忽略 inde.css 这个文件
+# 忽略 index.css 这个文件
 index.css
 
 # 忽略 test 目录下所有的文件
